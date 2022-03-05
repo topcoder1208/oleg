@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-cookie-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-device-detector": "^1.4.2",
+    "pug": "^3.0.2"
+  }
+}
